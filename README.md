@@ -7,7 +7,7 @@ LSB ( Least significant bit ) is determined whether the number is even or odd. T
 
 PIL libary used and developed using Python 3.5.
 
-##How to use:
+## How to use:
 Terminal run $pythom3 hidden.py
 >Save hidden text to image:
 >Choose a) - terminal input text
