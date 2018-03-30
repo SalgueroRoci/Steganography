@@ -9,21 +9,25 @@ PIL libary used and developed using Python 3.5.
 
 ## How to use:
 Terminal run $pythom3 hidden.py
->Save hidden text to image:
+
+### Save hidden text to image:
 >Choose a) - terminal input text
 >enter image to save it in (JPG only)
 >enter text 
 >image is saved as png in the same image name as the JPG entered
+
 ![Terminal Input](http://i64.tinypic.com/ejc08p.png)
 
 >Choose text file input 
 >enter image to save it in
 >enter text file 
 >image is saved as png in the same image name as the JPG entered
+
 ![Text Input](http://i68.tinypic.com/r85mcw.png)
 
 >Extract text from picture (PNG only) 
 >enter image file name 
 >Text is printed out in the terminal. 
+
 ![Extract 1](http://i63.tinypic.com/2e0ixeh.png)
 ![Extract 2](http://i65.tinypic.com/2rbynvs.png)
