@@ -1,4 +1,4 @@
-# hiddentext
+# Hiddentext
 
 **Programmer:** Rocio Salguero
 
